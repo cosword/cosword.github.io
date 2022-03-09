@@ -47,3 +47,4 @@ youdao.com
 zhihu.com
 baidu.com
 bing.com
+xljsci.com
